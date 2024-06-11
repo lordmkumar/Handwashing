@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.88.32474.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.258%0D%0AStore%20your%20personal%20belongings%20in%20the%20designated%20spaces%20or%20lockers%20only.%0D%0A%0D%0A"}')
